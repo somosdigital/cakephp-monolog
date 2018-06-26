@@ -1,10 +1,10 @@
 {
-    "name": "jadb/cakephp-monolog",
+    "name": "somosdigital/cakephp-monolog",
     "description": "CakePHP Monolog Plugin",
     "version": "2.0.0",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "monolog", "plugin"],
-    "homepage": "https://github.com/jadb/cakephp-monolog",
+    "homepage": "https://github.com/somosdigital/cakephp-monolog",
     "license": "MIT",
     "authors": [
         {
@@ -18,12 +18,12 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/jadb/cakephp-monolog/issues",
-        "source": "https://github.com/jadb/cakephp-monolog"
+        "issues": "https://github.com/somosdigital/cakephp-monolog/issues",
+        "source": "https://github.com/somosdigital/cakephp-monolog"
     },
     "require": {
         "php": ">=5.3.0",
-        "monolog/monolog": "1.7.*",
+        "monolog/monolog": "1.*",
         "composer/installers": "*"
     }
 }
